@@ -106,7 +106,7 @@ public class InterfazSwing implements ActionListener {
             }
             }
         });
-         
+        
         JButton button2 = new JButton("Mostrar ordenamiento");
         button2.setVisible(true);
         panel.add(button2);
